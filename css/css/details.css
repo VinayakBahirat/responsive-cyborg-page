@@ -1,0 +1,100 @@
+
+.cybong-icon {
+    width: 200px;
+    height: 50px;
+}
+.body {
+    background-color: #222225;
+}
+.profile-image {
+    width: 30px;
+}
+.profile_button {
+    width: 0%;
+}
+.search-icon {
+    width: 20px;
+}
+
+.bg-color {
+    background-color: #1f2122;
+}
+.bg-ligh-color {
+    background-color: #27292a;
+}
+.header-text-color {
+    color: #da5e8d;
+}
+.h1-font-size-moblie {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+}
+@media screen and (min-width:999px) {
+    .h1-font-size {
+        font-family: "poppins",sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 41px;
+    }
+}
+.paragraph-font {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 200;
+}
+.font-size-3-section-hedding {
+    font-size: 34px;
+    line-height: 41px;
+    font-weight: 700;
+}
+.text-pink {
+    color: #ec6090;
+} 
+.border-color {
+    border-color: #ec6090;
+}
+.padding-60 {
+    padding: 60px 48px 60px 48px;
+    background-color: #27292a;
+}
+.text:hover {
+    color: #da5e8d;
+}
+.profile:hover {
+    background-color: #da5e8d;
+    color: #fff;
+}
+.button:hover {
+    background-color: #fff;
+}
+.button-bg {
+    background-color: transparent;
+}
+.images-div-width {
+    width:1240;
+}
+.search-icon {
+    width: 20px;
+    left: 15px;
+    top: 10px;
+}
+.image-width {
+    width: 100%;
+}
+.copyright-text{
+    font-size: 11px;
+}
+@media screen and (min-width: 999px) {
+    .copyright-text{
+        font-size: 16px;
+    }
+}
+
+.last-section-list-images {
+    width: 80px;
+}
+.star-icon {
+    width: 20px;
+}

@@ -1,0 +1,118 @@
+
+
+.body {
+    background-color: #222225;
+}
+.profile-image {
+    width: 30px;
+}
+.profile_button {
+    width: 0%;
+}
+.search-icon {
+    width: 20px;
+}
+
+.bg-color {
+    background-color: #1f2122;
+}
+.bg-ligh-color {
+    background-color: #27292a;
+}
+.header-text-color {
+    color: #da5e8d;
+}
+.padding-60 {
+    padding: 48px 48px;
+    background-color: #27292a;
+
+}
+.bg-button-color {
+    background-color: #da5e8d;
+ }
+
+.section-1-paragran-font {
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 400;
+}
+.button-border {
+    border: 1px solid #da5e8d;
+    background: transparent;
+}
+.text-pink {
+    color: #ec6090;
+}
+.border-radius {
+    border: 1px solid lightgray;
+    border-radius: 20px;
+}
+.section-2-iamge-text {
+    font-size: 14px;
+    line-height: 14px;
+}
+.section-2-hedding {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 41px;
+}
+.grid-width {
+    width: 250px;
+}
+.margin-button {
+    margin-top: -10px;
+}
+.text:hover {
+    color: #da5e8d;
+}
+.profile:hover {
+    background-color: #fff;
+    color: #da5e8d;
+}
+.button:hover {
+    background-color: #fff;
+    color: #ec6090;
+}
+.button-bg {
+    background-color: #da5e8d;
+}
+.bg-image-hedding {
+    font-weight: 500;
+}
+.search-icon {
+    width: 20px;
+    left: 15px;
+    top: 10px;
+}
+@media screen and (min-width: 999px) {
+    .copyright-text{
+        font-size: 16px;
+    }
+}
+
+@media screen  and (min-width:999px){
+    .last-section-white-font-size {
+        font-size: 22px;
+        font-weight: 700;
+    }
+}
+.h1-font-size-moblie {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+}
+@media screen and (min-width:999px) {
+    .h1-font-size {
+        font-family: "poppins",sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 41px;
+    }
+}
+.image-width {
+    width: 100%;
+}
+.section-3-image-width {
+    width: 100px;
+}
